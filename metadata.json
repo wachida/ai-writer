@@ -1,5 +1,5 @@
 {
-  "name": "Studio Novel",
+  "name": "pookanfai",
   "description": "A comprehensive AI creative studio for writing, image generation, and world-building using Gemini and Imagen models.",
   "requestFramePermissions": [
     "microphone"
